@@ -1,4 +1,4 @@
-# Effective-Software-Architecture
+# AI-Engineering
 
 ### AI 엔지니어링
 > 파운데이션 모델을 활용한 시스템 설계부터 개선까지 AI 앱 개발 원스톱 가이드
